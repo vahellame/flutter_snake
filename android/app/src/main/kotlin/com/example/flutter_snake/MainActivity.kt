@@ -1,4 +1,4 @@
-package com.vahellame.flutter_snake
+package com.example.flutter_snake
 
 import io.flutter.embedding.android.FlutterActivity
 
