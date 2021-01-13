@@ -1,0 +1,4 @@
+enum AppThemeModel {
+  black,
+  white,
+}
